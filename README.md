@@ -5,74 +5,84 @@
 
 <p align="center">
   <b>Software Developer (Backend-focused Full-Stack)</b><br/>
-  Building scalable web backends & APIs with Node.js, deployed on Linux servers.
+  Production-ready REST APIs • Clean data models • Secure auth • Solid deploys
 </p>
 
 ---
 
-### 👋 About Me
-- 🎓 **Mathematics & Computer Science (EMU)** — student  
-- 🎓 **Computer Programming (Istanbul University)** — graduate  
-- 🧭 Focus: Clean, testable backends • Auth/Role • SQL design • Dockerized deploys  
-- 🖥️ Self-hosted Linux (Ubuntu) server ops experience
+## 👋 About Me
+- 🎓 **Mathematics & Computer Science (DAÜ)** – öğrenci  
+- 🎓 **Computer Programming (Istanbul University)** – mezun  
+- 🧭 **Frontend:** İşlevsel ve sade arayüzler (Next.js + React + Tailwind/Bootstrap).  
+- 🧩 **Backend (öncelik):** Node.js + Express ile JWT/RBAC, doğrulama, hata/log ve dokümantasyon (Swagger/Postman).  
+- 🧱 **Veritabanı:** PostgreSQL/MongoDB/SQLite ile şema tasarımı, indeksleme, performans odaklı sorgular.  
+- 🚀 **DevOps/Deploy:** Ubuntu üzerinde Docker’lı kurulumlar, Nginx reverse proxy, script’li yayın akışları.  
+- 📦 Kod yazarken önceliklerim: **okunabilirlik, test edilebilirlik ve ölçeklenebilirlik.**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="ts"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="node"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" alt="express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="nextjs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgres"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" alt="mongodb"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="28" alt="sqlite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" height="28" alt="strapi"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="28" alt="nginx"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git"/>
+  <!-- Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React"/>
+  <!-- React Native (React ikonu ile temsil) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React Native"/>
+  <!-- Mobile / Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="28" alt="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="VS Code"/>
+  <img src="https://cdn.simpleicons.org/expo" height="28" alt="Expo"/>
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="28" alt="SQLite"/>
+  <!-- Services / CMS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" height="28" alt="Strapi"/>
+  <!-- Styling -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="28" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="Bootstrap"/>
+  <!-- OS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="28" alt="Ubuntu"/>
 </p>
 
----
-
-### 🚀 Highlights
-- Robust **Auth (JWT, RBAC)**, validation, rate-limit, logging
-- SQL schema design, indexing, query optimization
-- CI/CD basics (GitHub Actions), containerized deployments
+> Not: React Native ikonunu **React** ile temsil ettim; istersen alternatif ikon/badge kullanabiliriz.
 
 ---
 
-### 📂 Featured Projects
-- **BERTAK – Appointment System**  
-  Multi-role auth (Admin/Customer), slots & schedule, reporting, Dockerized API  
-  _Repo:_ `https://github.com/<your-username>/bertak` (örnek)
+## 📂 Featured Projects
+### **BERTAK – Appointment System**
+Kapsam: Çok rollü randevu yönetimi (Admin/Müşteri), slot/schedule, raporlama.  
+Teknolojiler: **Node.js, Express, PostgreSQL, JWT/RBAC, Docker, Swagger**  
+Repo: `https://github.com/DavuTC/bertak` (örnek)
 
-- **Hazelnut Business Tracking (Fındık Sistemi)**  
-  Purchases/sales, stock & ledger, profit reports (PostgreSQL + Express)  
-  _Repo:_ `https://github.com/<your-username>/hazelnut-tracking`
+### **Hazelnut Business Tracking (Fındık Sistemi)**
+Kapsam: Alım-satım, stok/defter, kâr-zarar raporları, kullanıcı yetkilendirme.  
+Teknolojiler: **Node.js, Express, PostgreSQL, JWT, Knex/Prisma, Docker**  
+Repo: `https://github.com/DavuTC/hazelnut-tracking`
 
-- **E-commerce API (Headless)**  
-  Products, cart, orders, payments mock; Swagger docs; deployment to Ubuntu  
-  _Repo:_ `https://github.com/<your-username>/ecommerce-api`
+### **Headless E-commerce API**
+Kapsam: Ürün, sepet, sipariş, ödemeler (mock), çok rollü yönetim, API dokümantasyonu.  
+Teknolojiler: **Node.js, Express, MongoDB/PostgreSQL, Swagger, Docker, Nginx**  
+Repo: `https://github.com/DavuTC/ecommerce-api`
 
-> Pinned repos = en hızlı etki. Kısa bir **README + Screenshots + .env örneği + API docs** eklemeyi unutma.
+### **Blog CMS (Admin + API)**
+Kapsam: İçerik, kategori/etiket, rol-bazlı içerik yönetimi; Next.js ile admin UI.  
+Teknolojiler: **Next.js, React, Tailwind, Node.js, Strapi/PostgreSQL**  
+Repo: `https://github.com/DavuTC/blog-cms`
+
+> İpucu: Bu projeleri **Pinned** yap; her repo’da kısa **README**, 2-3 **screenshot**, örnek **.env**, ve **API dokümanı** bulunsun.
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=transparent&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DavuTC&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavuTC&layout=compact&theme=transparent" />
 </p>
 
-<!-- Not: Bu kartlar topluluk tarafından sağlanır; public istatistikleri gösterir. -->
-<!-- Özel katkılar için kendi instance’ını deploy etmen gerekir. -->
-
----
-
-### 📫 Contact
-
-- 🔗 LinkedIn: `https://www.linkedin.com/in/<davutc>/`
+<!-- İsteğe bağlı: Streak veya visitors badge eklenebilir -->
