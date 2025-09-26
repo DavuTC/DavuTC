@@ -11,13 +11,13 @@
 ---
 
 ## 👋 About Me
-- 🎓 **Mathematics & Computer Science (DAÜ)** – öğrenci  
-- 🎓 **Computer Programming (Istanbul University)** – mezun  
-- 🧭 **Frontend:** İşlevsel ve sade arayüzler (Next.js + React + Tailwind/Bootstrap).  
-- 🧩 **Backend (öncelik):** Node.js + Express ile JWT/RBAC, doğrulama, hata/log ve dokümantasyon (Swagger/Postman).  
-- 🧱 **Veritabanı:** PostgreSQL/MongoDB/SQLite ile şema tasarımı, indeksleme, performans odaklı sorgular.  
-- 🚀 **DevOps/Deploy:** Ubuntu üzerinde Docker’lı kurulumlar, Nginx reverse proxy, script’li yayın akışları.  
-- 📦 Kod yazarken önceliklerim: **okunabilirlik, test edilebilirlik ve ölçeklenebilirlik.**
+- 🎓 **Mathematics & Computer Science (EMU)** – current student  
+- 🎓 **Computer Programming (Istanbul University)** – graduate  
+- 🧭 **Frontend:** Functional and clean UIs (Next.js + React + Tailwind/Bootstrap).  
+- 🧩 **Backend (priority):** Node.js + Express with JWT/RBAC, validation, logging, and API documentation (Swagger/Postman).  
+- 🧱 **Databases:** PostgreSQL / MongoDB / SQLite with schema design, indexing, and performance-focused queries.  
+- 🚀 **DevOps/Deploy:** Ubuntu servers, Dockerized setups, Nginx reverse proxy, automated deploy pipelines.  
+- 📦 Coding values: **readability, testability, scalability.**
 
 ---
 
@@ -30,7 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React"/>
-  <!-- React Native (React ikonu ile temsil) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React Native"/>
   <!-- Mobile / Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="28" alt="Android Studio"/>
@@ -46,36 +45,31 @@
   <!-- Styling -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="28" alt="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="Bootstrap"/>
-  <!-- OS -->
+  <!-- OS & Server -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="28" alt="Ubuntu"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="28" alt="Nginx"/>
 </p>
-
-> Not: React Native ikonunu **React** ile temsil ettim; istersen alternatif ikon/badge kullanabiliriz.
 
 ---
 
 ## 📂 Featured Projects
 ### **BERTAK – Appointment System**
-Kapsam: Çok rollü randevu yönetimi (Admin/Müşteri), slot/schedule, raporlama.  
-Teknolojiler: **Node.js, Express, PostgreSQL, JWT/RBAC, Docker, Swagger**  
-Repo: `https://github.com/DavuTC/bertak` (örnek)
+Scope: Multi-role appointment management (Admin/Customer), slot/schedule, reporting.  
+Tech: **Node.js, Express, PostgreSQL, JWT/RBAC, Docker, Swagger**  
+Repo: `https://github.com/DavuTC/bertak` (example)
 
-### **Hazelnut Business Tracking (Fındık Sistemi)**
-Kapsam: Alım-satım, stok/defter, kâr-zarar raporları, kullanıcı yetkilendirme.  
-Teknolojiler: **Node.js, Express, PostgreSQL, JWT, Knex/Prisma, Docker**  
+### **Hazelnut Business Tracking**
+Scope: Purchase-sale, stock/ledger, profit-loss reporting, user authorization.  
+Tech: **Node.js, Express, PostgreSQL, JWT, Knex/Prisma, Docker**  
 Repo: `https://github.com/DavuTC/hazelnut-tracking`
 
 ### **Headless E-commerce API**
-Kapsam: Ürün, sepet, sipariş, ödemeler (mock), çok rollü yönetim, API dokümantasyonu.  
-Teknolojiler: **Node.js, Express, MongoDB/PostgreSQL, Swagger, Docker, Nginx**  
-Repo: `https://github.com/DavuTC/ecommerce-api`
+Scope: Product, cart, orders, payment (mock), multi-role management, API docs.  
+Tech: **Node.js, Express, MongoDB/PostgreSQL, Swagger, Docker, Nginx**  
 
 ### **Blog CMS (Admin + API)**
-Kapsam: İçerik, kategori/etiket, rol-bazlı içerik yönetimi; Next.js ile admin UI.  
-Teknolojiler: **Next.js, React, Tailwind, Node.js, Strapi/PostgreSQL**  
-Repo: `https://github.com/DavuTC/blog-cms`
-
-> İpucu: Bu projeleri **Pinned** yap; her repo’da kısa **README**, 2-3 **screenshot**, örnek **.env**, ve **API dokümanı** bulunsun.
+Scope: Content, categories/tags, role-based management; Next.js admin UI.  
+Tech: **Next.js, React, Tailwind, Node.js, Strapi/PostgreSQL**  
 
 ---
 
@@ -84,5 +78,3 @@ Repo: `https://github.com/DavuTC/blog-cms`
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=DavuTC&show_icons=true&theme=transparent&rank_icon=github" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavuTC&layout=compact&theme=transparent" />
 </p>
-
-<!-- İsteğe bağlı: Streak veya visitors badge eklenebilir -->
