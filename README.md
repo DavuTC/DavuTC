@@ -12,9 +12,9 @@
 
 ## 👋 About Me
 - 🎓 **Mathematics & Computer Science (DAÜ)** – student  
-- 🎓 **Computer Programming (Istanbul University)** – graduate
-- 🎓 **International Relations (Anadolu University)** – graduate
-- 🎓 **Justice Hight School (Atatürk University)** – graduate
+- 🎓 **Computer Programming (Istanbul University)** – graduate  
+- 🎓 **International Relations (Anadolu University)** – graduate  
+- 🎓 **Justice Vocational School (Atatürk University)** – graduate  
 - 🧭 **Frontend:** Functional and simple UIs (Next.js + React + Tailwind/Bootstrap).  
 - 🧩 **Backend (priority):** Node.js + Express with JWT/RBAC, validation, logging, and documentation (Swagger/Postman).  
 - 🧱 **Databases:** PostgreSQL/MongoDB/SQLite with schema design, indexing, performance queries.  
@@ -31,6 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React Native"/>
   <!-- Mobile / Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="28" alt="Android Studio"/>
@@ -42,8 +43,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="28" alt="SQLite"/>
   <!-- Services / CMS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" alt="Firebase"/>
-    <!-- Styling -->
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" height="28" alt="Strapi"/>
+  <!-- Styling -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="28" alt="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="Bootstrap"/>
   <!-- OS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="28" alt="Ubuntu"/>
@@ -53,24 +55,32 @@
 
 ## 📂 Featured Projects
 ### **BERTAK – Appointment System**
-Scope: Multi-role appointment management (Admin/Customer), slot/schedule, reporting.  
-Stack: **Node.js, Express, PostgreSQL, JWT/RBAC, Docker, Swagger**  
+Multi-role appointment management with **Admin, Super Admin, and Customer panels**.  
+Includes **SMS verification integration (under testing)**, slot scheduling, reporting, and scalable distribution.  
+Stack: **Node.js, Express, PostgreSQL, JWT/RBAC, Docker, Swagger, SMS API**  
+Demo video available on request.  
 
+---
 
 ### **Hazelnut Business Tracking System**
-Scope: Purchase/sale, stock/book, profit-loss reports, user authorization.  
-Stack: **Node.js, Express, PostgreSQL, JWT, Knex/Prisma, Docker**  
+Business-focused system for **purchase/sale**, **stock/book management**, and **profit-loss reporting**.  
+Includes user authorization and role-based operations for SMBs.  
+Stack: **Node.js, Express, PostgreSQL, JWT, Knex/Prisma, Docker**
 
+---
 
 ### **Dopilot – Task Management System**
-Scope: Kanban-like task manager with statuses, calendar view, role-based access.  
-Stack: **React, Node.js, Express, MongoDB/PostgreSQL, JWT, Tailwind CSS**  
+Kanban-style task manager for businesses with **multi-panel access (Admin & Super Admin)**.  
+Features include calendar view, responsive design, and **JWT authentication**.  
+Hosted demo: [dtcdopilot.site](http://dtcdopilot.site)  
+Stack: **React, Node.js, Express, MongoDB, JWT, Tailwind CSS, Docker**
 
+---
 
 ### **Blog CMS (Admin + API)**
-Scope: Content, categories/tags, role-based content management; admin UI with Next.js.  
-Stack: **Next.js, React, Tailwind, Node.js, Strapi/PostgreSQL**  
-
+Admin-panel CMS powering a real business website: [unyeses.com](https://unyeses.com).  
+Includes **blog module**, **SEO meta tags**, and **secure JWT authentication**.  
+Stack: **Next.js, React, Tailwind, Node.js, Strapi, PostgreSQL**
 
 ---
 
