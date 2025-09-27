@@ -12,7 +12,9 @@
 
 ## 👋 About Me
 - 🎓 **Mathematics & Computer Science (DAÜ)** – student  
-- 🎓 **Computer Programming (Istanbul University)** – graduate  
+- 🎓 **Computer Programming (Istanbul University)** – graduate
+- 🎓 **International Relations (Anadolu University)** – graduate
+- 🎓 **Justice Hight School (Atatürk University)** – graduate
 - 🧭 **Frontend:** Functional and simple UIs (Next.js + React + Tailwind/Bootstrap).  
 - 🧩 **Backend (priority):** Node.js + Express with JWT/RBAC, validation, logging, and documentation (Swagger/Postman).  
 - 🧱 **Databases:** PostgreSQL/MongoDB/SQLite with schema design, indexing, performance queries.  
