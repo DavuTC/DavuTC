@@ -11,7 +11,7 @@
 ---
 
 ## 👋 About Me
-- 🎓 **Mathematics & Computer Science (DAÜ)** – student  
+- 🎓 **Information Systems and Technologies(EMU)** – student  
 - 🎓 **Computer Programming (Istanbul University)** – graduate  
 - 🎓 **International Relations (Anadolu University)** – graduate  
 - 🎓 **Justice Vocational School (Atatürk University)** – graduate  
