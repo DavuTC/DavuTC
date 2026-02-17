@@ -69,13 +69,17 @@ Stack: **Node.js, Express, PostgreSQL, JWT, Knex/Prisma, Docker**
 
 ---
 
-### **Dopilot – Task Management System**
-Kanban-style task manager for businesses with **multi-panel access (Admin & Super Admin)**.  
-Features include calendar view, responsive design, and **JWT authentication**.  
+### **DAÜKUT – Task & Operation Management System**  
+Kanban-style task and operation management system developed for the Eastern Mediterranean University Search & Rescue Club and actively used in real operations.  
+
+Supports **multi-role panel access (Editor, Instructor, Custom Roles)** with controlled task visibility and a mobile-first responsive interface.  
+Features include task lifecycle flow (**TODO → IN_PROGRESS → DONE**), role-based access control (RBAC), enforced minimum assignee rule, audit logging, and **JWT-based secure authentication**.  
+
 Hosted demo: [dtcdopilot.site](http://dtcdopilot.site)  
 Stack: **React, Node.js, Express, MongoDB, JWT, Tailwind CSS, Docker**
 
 ---
+
 
 ### **Blog CMS (Admin + API)**
 Admin-panel CMS powering a real business website: [unyeses.com](https://unyeses.com).  
