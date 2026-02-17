@@ -11,7 +11,7 @@
 ---
 
 ## 👋 About Me
-- 🎓 **Information Systems and Technologies (EMU)** – student  
+- 🎓 **Information Systems and Technologies(EMU)** – student  
 - 🎓 **Computer Programming (Istanbul University)** – graduate  
 - 🎓 **International Relations (Anadolu University)** – graduate  
 - 🎓 **Justice Vocational School (Atatürk University)** – graduate  
@@ -32,7 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React Native"/>
   <!-- Mobile / Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="28" alt="Android Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="VS Code"/>
   <img src="https://cdn.simpleicons.org/expo" height="28" alt="Expo"/>
   <!-- Databases -->
@@ -87,6 +89,6 @@ Stack: **Next.js, React, Tailwind, Node.js, Strapi, PostgreSQL**
 
 ## 📈 GitHub Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DavuTC&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavuTC&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DavuTC&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavuTC&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;cache_seconds=1800" />
 </p>
