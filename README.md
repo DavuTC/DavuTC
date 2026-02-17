@@ -90,6 +90,6 @@ Stack: **Next.js, React, Tailwind, Node.js, Strapi, PostgreSQL**
 
 ## 📈 GitHub Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DavuTC&show_icons=true&theme=transparent&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavuTC&layout=compact&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DavuTC&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavuTC&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
 </p>
