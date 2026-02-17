@@ -11,7 +11,7 @@
 ---
 
 ## 👋 About Me
-- 🎓 **Information Systems and Technologies(EMU)** – student  
+- 🎓 **Information Systems and Technologies (EMU)** – student  
 - 🎓 **Computer Programming (Istanbul University)** – graduate  
 - 🎓 **International Relations (Anadolu University)** – graduate  
 - 🎓 **Justice Vocational School (Atatürk University)** – graduate  
@@ -32,9 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React Native"/>
   <!-- Mobile / Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="28" alt="Android Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="VS Code"/>
   <img src="https://cdn.simpleicons.org/expo" height="28" alt="Expo"/>
   <!-- Databases -->
@@ -79,7 +77,6 @@ Hosted demo: [dtcdopilot.site](http://dtcdopilot.site)
 Stack: **React, Node.js, Express, MongoDB, JWT, Tailwind CSS, Docker**
 
 ---
-
 
 ### **Blog CMS (Admin + API)**
 Admin-panel CMS powering a real business website: [unyeses.com](https://unyeses.com).  
